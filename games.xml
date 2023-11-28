@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <gameName>Gravity Grapple</gameName>
+    <gradientColor1>#32CD32</gradientColor1>
+    <gradientColor2>#87CEEB</gradientColor2>
+    <description>Swing Through Space</description>
+    <logoLink>https://raw.githubusercontent.com/jordan-trempert/media/main/grapple.png</logoLink>
+</game>
